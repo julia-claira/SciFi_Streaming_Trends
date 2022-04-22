@@ -19,7 +19,7 @@ A suplimentary dashboard I created for a pitch to Netflix that demonstrates the 
 
 This app is hosted on Heroku:
 
-[Science Fiction Strreaming App](https://scifi-stream.herokuapp.com/)
+[Science Fiction Strreaming App](https://sci-fi-dashboard.herokuapp.com/)
 
 
 ## Tools
